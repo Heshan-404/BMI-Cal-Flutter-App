@@ -1,16 +1,22 @@
-# first
+# BMI Calculator Flutter App
 
-A new Flutter project.
+A simple BMI (Body Mass Index) calculator application built with Flutter. This project was created as a learning exercise to explore basic Flutter concepts.
+
+## Features
+
+* Calculates BMI based on user-provided height and weight.
+* Displays the calculated BMI.
+* Provides a basic interpretation of the BMI range (e.g., Underweight, Normal weight, Overweight, Obese).  *(Optional - if implemented)*
+* Simple and intuitive user interface.
+
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/c775d56d-a189-4432-957d-a984c814a8a9)
+
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
